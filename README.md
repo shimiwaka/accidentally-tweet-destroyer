@@ -16,4 +16,6 @@ Coincidentally if you know `TWEET DELETING CURL COMMAND`, this tool and `tweet.j
 
 3. Write copied curl command to `curl_command.dat` and replace the part of `tweet_id` to `TWEET_ID` string. And delete the line breaks also.
 
-4. Exec `ruby delete_tweets.rb`.
+4. Put `delete tweets.rb`, tweets.js` and `curl_command.dat` on same directory.
+
+5. Exec `ruby delete_tweets.rb`.
