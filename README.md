@@ -1,4 +1,4 @@
-# twikeshi
+# accidentally-tweet-destroyer
 
 deleting your tweets console tool
 
